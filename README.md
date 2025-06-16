@@ -56,6 +56,7 @@ The following Tableau capabilities were applied in building this analysis:
 | -------------------------- | ------------------------------------------------------ |
 | `Airbnb_Dashboard.twbx`    | Tableau workbook with full dashboard and data sources. |
 | `Dashboard_Screenshot.png` | Image preview of the dashboard.                        |
+| `AirBnB_Dataset.xlsx` | The dataset used in the project                        |
 
 
 ---
